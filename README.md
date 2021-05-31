@@ -14,3 +14,8 @@ click with mouse to select start and end point
 and space bar to refresh the image 
 
 
+maze-generator.py   to generate a maze pattern (uses a dfs approach to generate maze using backtracking)
+maze-solver-bfs.py  solve maze generated above using bfs (add a A, B in the txt file to indicate start and end position)
+maze-solver-dfs.py  solves maze using dfs 
+
+
